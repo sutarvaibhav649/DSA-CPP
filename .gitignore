@@ -2,3 +2,6 @@ build/
 .cache/
 bin/
 *.o
+
+**/build/
+**/.cache/
