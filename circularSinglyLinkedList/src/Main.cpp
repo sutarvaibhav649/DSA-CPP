@@ -1,9 +1,8 @@
-#include<iostream>
-#include "../include/SinglyLinkedList.h"
-
+#include <iostream>
+#include "../include/CircularLinkedList.h"
 
 int main(){
-    SinglyLinkedList<int> myList;
+    CircularLinkedList<int> myList;
 
     int choice,data,position,target,deletedData;
     
